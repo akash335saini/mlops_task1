@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>Developer12 News</h1>
+<h1>Developer News</h1>
 
-<?php echo "The Best PHP Examples"; ?>
+<?php echo "One of the Best PHP Examples"; ?>
 
 </body>
 </html> 
