@@ -1,4 +1,8 @@
-hello
-again
-wow
-again
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <p>Hello World</p>
+ </body>
+</html>
